@@ -1,0 +1,14 @@
+h1 {
+  font-size: 250%;
+}
+p {
+  font-size: 150%;
+  text-align: center;
+}
+p.reflexion {
+  font-style: italic;
+}
+p.fin {
+  font-size: 75%;
+  color: #04B404;
+}
